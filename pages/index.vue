@@ -18,5 +18,6 @@ export default {
 <style scoped>
 h1{
   background-color: orange;
+  color: aliceblue;
 }
 </style>
